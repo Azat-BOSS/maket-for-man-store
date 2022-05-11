@@ -1,0 +1,9 @@
+.watches__cards_flex {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 990px;
+    margin-top: 81px;
+    margin: 0 auto;
+    margin-top: 81px;
+    padding-bottom: 150px;
+}

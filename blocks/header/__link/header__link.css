@@ -1,0 +1,20 @@
+.header__link {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 40px;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    padding: 31px 0 31px 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.header__link:last-child {
+    margin: none;
+}
+
+.header__link:hover {
+    transition: .1s linear;
+    opacity: .5;
+}

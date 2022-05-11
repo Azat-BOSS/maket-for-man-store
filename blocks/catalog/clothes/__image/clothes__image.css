@@ -1,0 +1,7 @@
+.clothes__image {
+    background-image: url(../../../../images/Rectangle\ 9.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: inherit;
+    height: inherit;
+}

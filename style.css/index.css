@@ -1,0 +1,87 @@
+@import url(../vendor/global.css);
+
+/*  header */
+
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__inner-logo/header__inner-logo.css);
+@import url(../blocks/header/__inner/header__inner.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__illustration/header__illustration.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__title-border/header__title-border.css);
+@import url(../blocks/header/__paragraph/header__paragraph.css);
+@import url(../blocks/header/__text/header__text.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+
+/* catalog 
+------------*/
+
+@import url(../blocks/catalog/__container/catalog__container.css);
+
+/* 1 block */
+
+@import url(../blocks/catalog/watches/watches.css);
+@import url(../blocks/catalog/watches/__bg/watches__bg.css);
+@import url(../blocks/catalog/watches/__card/);
+@import url(../blocks/catalog/watches/__cards/watches__cards.css);
+@import url(../blocks/catalog/watches/__item/watches__item.css);
+@import url(../blocks/catalog/watches/__line/watches__line.css);
+@import url(../blocks/catalog/watches/__name/watches__name.css);
+@import url(../blocks/catalog/watches/__price/watches__price.css);
+@import url(../blocks/catalog/watches/__title/watches__title.css);
+
+/* 2 block */
+
+@import url(../blocks/catalog/collection/collection.css);
+@import url(../blocks/catalog/collection/__button-border/collection__button-border.css);
+@import url(../blocks/catalog/collection/__button/collection__button.css);
+@import url(../blocks/catalog/collection/__line/collection__line.css);
+@import url(../blocks/catalog/collection/__man-image/collection__man-image.css);
+@import url(../blocks/catalog/collection/__title/collection__title.css);
+
+/* 3 block */
+
+@import url(../blocks/catalog/clothes/clothes.css);
+@import url(../blocks/catalog/clothes/__image/clothes__image.css);
+
+/* block 4 */
+
+@import url(../blocks/catalog/__button-border/catalog__button-border.css);
+@import url(../blocks/catalog/__button/catalog__button.css);
+@import url(../blocks/catalog/__main-text/catalog__main-text.css);
+@import url(../blocks/catalog/__text/catalog__text.css);
+
+/* proceeds */
+
+@import url(../blocks/proceeds/__line/_margin/proceeds__line_margin.css);
+@import url(../blocks/proceeds/__title/_margin/proceeds__title_margin.css);
+@import url(../blocks/proceeds/watches/__card/_flex/watches__card_flex.css);
+@import url(../blocks/proceeds/watches/__cards/_flex/proceeds__cards_flex.css);
+.proceeds__container {
+    background-color: #000;
+}
+
+
+/* ---- */
+
+.brands__container {
+    background-color: #0f0f0f;
+}
+
+.brands__image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.brands__image {
+    height: 94px;
+    width: 255px;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.brands__image:first-child {
+    margin-left: 0;
+}

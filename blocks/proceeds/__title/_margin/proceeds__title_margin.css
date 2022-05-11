@@ -1,0 +1,11 @@
+.proceeds__title_margin {
+    margin: 0 auto;
+    padding-top: 120px;
+    margin-bottom: 40px;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    text-transform: uppercase;
+}

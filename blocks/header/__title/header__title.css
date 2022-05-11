@@ -1,0 +1,12 @@
+.header__title {
+    font-family: 'Post No Bills Jaffna';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    text-align: center;
+    border-bottom: solid;
+    height: 86px;
+    width: 185px;
+    margin: 0 auto;
+}

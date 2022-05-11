@@ -1,0 +1,13 @@
+.watches__card_flex {
+    justify-content: space-between;
+    margin-left: 23px;
+    margin-bottom: 30px;
+}
+
+.watches__card_flex:first-child {
+    margin-left: 0;
+}
+
+.watches__card_flex:nth-child(5) {
+    margin-left: 0;
+}
